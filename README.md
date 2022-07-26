@@ -17,4 +17,9 @@ currently_learning: ["Game Design", "Elixir"]
 hobbies: ["Gaming", "Music"]
 ```
 
-[![Alexanders's github stats](https://github-readme-stats.vercel.app/api?username=trelore&theme=vision-friendly-dark&count_private=true&include_all_commits=true)](https://github.com/trelore)
+<a href="https://github.com/trelore/trelore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelore&hide=java,html,tex&langs_count=3&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/trelore/trelore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trelore&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Alexanders GitHub Stats" />
+</a>
