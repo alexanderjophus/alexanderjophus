@@ -33,11 +33,11 @@ hobbies: ["Gaming", "Music"]
 | [microsoft/restler-fuzzer](https://www.github.com/microsoft/restler-fuzzer) | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. |
 | [up9inc/mizu](https://www.github.com/up9inc/mizu) | API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes |
 
-## Actively Working On
+## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [go118talk](https://www.github.com/trelore/go118talk) | Code from my 1.18 type parameters talk |
 | [formula1](https://www.github.com/trelore/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
 | [iris-classification](https://www.github.com/trelore/iris-classification) | A gRPC service to predict iris classification |
 | [trelore.github.io](https://www.github.com/trelore/trelore.github.io) | https://trelore.github.io/ |
-| [trelore](https://www.github.com/trelore/trelore) |  |
+| [streamingRPC](https://www.github.com/trelore/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
+| [trelore](https://www.github.com/trelore/trelore) | The special repo |
