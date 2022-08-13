@@ -54,7 +54,7 @@ hobbies: ["Gaming", "Music"]
 |---|---|{{ range .RecentStars }}
 | [{{ .NameWithOwner }}](https://www.github.com/{{ .NameWithOwner }}) | {{ .Description }} |{{ end }}
 
-## Actively Working On
+## Actively Working On (publicly)
 | Repository | Description |
 |---|---|{{ range .RecentActivity }}
 | [{{ .Name }}](https://www.github.com/trelore/{{ .Name }}) | {{ .Description }} |{{ end }}`, "§", "`")
