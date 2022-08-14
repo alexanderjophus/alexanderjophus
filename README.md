@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Music"]
 | Repository | Description |
 |---|---|
 | [iris-classification](https://www.github.com/trelore/iris-classification) | A gRPC service to predict iris classification |
-| [trelore.github.io](https://www.github.com/trelore/trelore.github.io) | https://trelore.github.io/ |
 | [streamingRPC](https://www.github.com/trelore/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
 | [talks](https://www.github.com/trelore/talks) | A repo to hold all my talks |
 | [trelore](https://www.github.com/trelore/trelore) | The special repo |
+| [trelore.github.io](https://www.github.com/trelore/trelore.github.io) | https://trelore.github.io/ |
