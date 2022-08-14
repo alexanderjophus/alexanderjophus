@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [streamingRPC](https://www.github.com/trelore/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
 | [talks](https://www.github.com/trelore/talks) | A repo to hold all my talks |
 | [trelore.github.io](https://www.github.com/trelore/trelore.github.io) | https://trelore.github.io/ |
-| [trelore](https://www.github.com/trelore/trelore) | The special repo |
 | [formula1](https://www.github.com/trelore/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
+| [trelore](https://www.github.com/trelore/trelore) | The special repo |
