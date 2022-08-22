@@ -38,6 +38,6 @@ hobbies: ["Gaming", "Music"]
 |---|---|
 | [formula1](https://www.github.com/trelore/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
 | [fyne-example](https://www.github.com/trelore/fyne-example) | Felt fyne, might delete later |
-| [go-broadcast](https://www.github.com/trelore/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
-| [trelore](https://www.github.com/trelore/trelore) | The special repo |
 | [streamingRPC](https://www.github.com/trelore/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
+| [trelore](https://www.github.com/trelore/trelore) | The special repo |
+| [go-broadcast](https://www.github.com/trelore/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
