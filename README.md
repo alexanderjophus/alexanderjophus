@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [fyne-example](https://www.github.com/trelore/fyne-example) | Felt fyne, might delete later |
 | [streamingRPC](https://www.github.com/trelore/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
 | [go-broadcast](https://www.github.com/trelore/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
-| [go-graph](https://www.github.com/trelore/go-graph) | A small graph library |
 | [trelore](https://www.github.com/trelore/trelore) | The special repo |
+| [go-graph](https://www.github.com/trelore/go-graph) | A small graph library |
