@@ -27,17 +27,17 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [microsoft/restler-fuzzer](https://www.github.com/microsoft/restler-fuzzer) | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. |
-| [up9inc/mizu](https://www.github.com/up9inc/mizu) | API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes |
-| [blackjack/webcam](https://www.github.com/blackjack/webcam) | Golang webcam library for Linux |
-| [fyne-io/fyne](https://www.github.com/fyne-io/fyne) | Cross platform GUI in Go inspired by Material Design |
-| [DATA-DOG/go-sqlmock](https://www.github.com/DATA-DOG/go-sqlmock) | Sql mock driver for golang to test database interactions |
+| [lumeland/lume](https://www.github.com/lumeland/lume) | 🔥 Static site generator for Deno 🦕 |
+| [msiric/feasible-route-mapping](https://www.github.com/msiric/feasible-route-mapping) | Algorithm capable of finding all the areas that a person could have reached while en route between locations in a defined period, taking into account time and mode of transportation constraints. |
+| [RootMyTV/RootMyTV.github.io](https://www.github.com/RootMyTV/RootMyTV.github.io) | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. |
+| [nikolaydubina/go-recipes](https://www.github.com/nikolaydubina/go-recipes) | 🦩 Tools for Go projects |
+| [rusqlite/rusqlite](https://www.github.com/rusqlite/rusqlite) | Ergonomic bindings to SQLite for Rust |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [fyne-example](https://www.github.com/alexanderjophus/fyne-example) | Felt fyne, might delete later |
-| [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
 | [go-broadcast](https://www.github.com/alexanderjophus/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
 | [go-graph](https://www.github.com/alexanderjophus/go-graph) | A small graph library |
+| [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
+| [pengo](https://www.github.com/alexanderjophus/pengo) | 🕵️‍♂️ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
