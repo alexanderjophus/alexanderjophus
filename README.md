@@ -27,17 +27,17 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [lumeland/lume](https://www.github.com/lumeland/lume) | 🔥 Static site generator for Deno 🦕 |
 | [msiric/feasible-route-mapping](https://www.github.com/msiric/feasible-route-mapping) | Algorithm capable of finding all the areas that a person could have reached while en route between locations in a defined period, taking into account time and mode of transportation constraints. |
 | [RootMyTV/RootMyTV.github.io](https://www.github.com/RootMyTV/RootMyTV.github.io) | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. |
 | [nikolaydubina/go-recipes](https://www.github.com/nikolaydubina/go-recipes) | 🦩 Tools for Go projects |
 | [rusqlite/rusqlite](https://www.github.com/rusqlite/rusqlite) | Ergonomic bindings to SQLite for Rust |
+| [progrium/clon-spec](https://www.github.com/progrium/clon-spec) | Command-Line Object Notation: Ergonomic JSON-compatible input syntax for CLI tools. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [go-broadcast](https://www.github.com/alexanderjophus/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
 | [go-graph](https://www.github.com/alexanderjophus/go-graph) | A small graph library |
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
 | [pengo](https://www.github.com/alexanderjophus/pengo) | 🕵️‍♂️ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
