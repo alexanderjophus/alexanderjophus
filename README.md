@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [go-graph](https://www.github.com/alexanderjophus/go-graph) | A small graph library |
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
 | [pengo](https://www.github.com/alexanderjophus/pengo) | 🕵️‍♂️ |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
