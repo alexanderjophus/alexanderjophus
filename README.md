@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [msiric/feasible-route-mapping](https://www.github.com/msiric/feasible-route-mapping) | Algorithm capable of finding all the areas that a person could have reached while en route between locations in a defined period, taking into account time and mode of transportation constraints. |
-| [RootMyTV/RootMyTV.github.io](https://www.github.com/RootMyTV/RootMyTV.github.io) | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. |
 | [nikolaydubina/go-recipes](https://www.github.com/nikolaydubina/go-recipes) | 🦩 Tools for Go projects |
 | [rusqlite/rusqlite](https://www.github.com/rusqlite/rusqlite) | Ergonomic bindings to SQLite for Rust |
 | [progrium/clon-spec](https://www.github.com/progrium/clon-spec) | Command-Line Object Notation: Ergonomic JSON-compatible input syntax for CLI tools. |
+| [surrealdb/surrealdb](https://www.github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [mindsdb/mindsdb](https://www.github.com/mindsdb/mindsdb) | In-Database Machine Learning |
 
 ## Actively Working On (publicly)
 | Repository | Description |
