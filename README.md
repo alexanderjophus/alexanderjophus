@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [rusqlite/rusqlite](https://www.github.com/rusqlite/rusqlite) | Ergonomic bindings to SQLite for Rust |
-| [progrium/clon-spec](https://www.github.com/progrium/clon-spec) | Command-Line Object Notation: Ergonomic JSON-compatible input syntax for CLI tools. |
 | [surrealdb/surrealdb](https://www.github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 | [mindsdb/mindsdb](https://www.github.com/mindsdb/mindsdb) | In-Database Machine Learning |
 | [charmbracelet/vhs](https://www.github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
+| [SheerSt/pokewilds](https://www.github.com/SheerSt/pokewilds) | PokeWilds - A Gen 2 Game/Engine using libGDX |
+| [mszostok/version](https://www.github.com/mszostok/version) | 🧬 Pure DNA of your CLI! |
 
 ## Actively Working On (publicly)
 | Repository | Description |
