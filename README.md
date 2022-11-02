@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [surrealdb/surrealdb](https://www.github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [mindsdb/mindsdb](https://www.github.com/mindsdb/mindsdb) | In-Database Machine Learning |
 | [charmbracelet/vhs](https://www.github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
 | [SheerSt/pokewilds](https://www.github.com/SheerSt/pokewilds) | PokeWilds - A Gen 2 Game/Engine using libGDX |
 | [mszostok/version](https://www.github.com/mszostok/version) | 🧬 Pure DNA of your CLI! |
+| [lapce/lapce](https://www.github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [OpenCTI-Platform/opencti](https://www.github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform |
 
 ## Actively Working On (publicly)
 | Repository | Description |
