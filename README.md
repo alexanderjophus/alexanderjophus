@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [SheerSt/pokewilds](https://www.github.com/SheerSt/pokewilds) | PokeWilds - A Gen 2 Game/Engine using libGDX |
 | [mszostok/version](https://www.github.com/mszostok/version) | 🧬 Pure DNA of your CLI! |
 | [lapce/lapce](https://www.github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [OpenCTI-Platform/opencti](https://www.github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform |
 | [quasilyte/ebitengine-input](https://www.github.com/quasilyte/ebitengine-input) | A Godot-inspired action input handling system for Ebitengine |
+| [LambdaLabsML/lambda-diffusers](https://www.github.com/LambdaLabsML/lambda-diffusers) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
