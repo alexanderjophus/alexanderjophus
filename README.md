@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [BasixKOR/awesome-activitypub](https://www.github.com/BasixKOR/awesome-activitypub) | Awesome list of ActivityPub based projects |
 | [superseriousbusiness/gotosocial](https://www.github.com/superseriousbusiness/gotosocial) | Fast, fun, ActivityPub server, powered by Go. |
 | [spacelift-io/spacectl](https://www.github.com/spacelift-io/spacectl) | Spacelift client and CLI |
 | [lizrice/containers-from-scratch](https://www.github.com/lizrice/containers-from-scratch) | Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari |
 | [Hacking-the-Cloud/hackingthe.cloud](https://www.github.com/Hacking-the-Cloud/hackingthe.cloud) | An encyclopedia for offensive and defensive security knowledge in cloud native technologies. |
+| [google/latexify_py](https://www.github.com/google/latexify_py) | Generates LaTeX math description from Python functions. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
