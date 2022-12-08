@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [Hacking-the-Cloud/hackingthe.cloud](https://www.github.com/Hacking-the-Cloud/hackingthe.cloud) | An encyclopedia for offensive and defensive security knowledge in cloud native technologies. |
 | [google/latexify_py](https://www.github.com/google/latexify_py) | A library to generate LaTeX expression from Python code. |
 | [aseprite/aseprite](https://www.github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | [swanandx/lemmeknow](https://www.github.com/swanandx/lemmeknow) | The fastest way to identify anything! |
 | [NationalSecurityAgency/ghidra](https://www.github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
+| [SolarLune/ldtkgo](https://www.github.com/SolarLune/ldtkgo) | LDtk-Go is a loader for LDtk projects written in Golang. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
