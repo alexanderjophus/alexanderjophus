@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [google/latexify_py](https://www.github.com/google/latexify_py) | A library to generate LaTeX expression from Python code. |
-| [aseprite/aseprite](https://www.github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | [swanandx/lemmeknow](https://www.github.com/swanandx/lemmeknow) | The fastest way to identify anything! |
 | [NationalSecurityAgency/ghidra](https://www.github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | [SolarLune/ldtkgo](https://www.github.com/SolarLune/ldtkgo) | LDtk-Go is a loader for LDtk projects written in Golang. |
+| [eko/pihole-exporter](https://www.github.com/eko/pihole-exporter) | A Prometheus exporter for PI-Hole's Raspberry PI ad blocker |
+| [elazarl/goproxy](https://www.github.com/elazarl/goproxy) | An HTTP proxy library for Go |
 
 ## Actively Working On (publicly)
 | Repository | Description |
