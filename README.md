@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [swanandx/lemmeknow](https://www.github.com/swanandx/lemmeknow) | The fastest way to identify anything! |
 | [NationalSecurityAgency/ghidra](https://www.github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | [SolarLune/ldtkgo](https://www.github.com/SolarLune/ldtkgo) | LDtk-Go is a loader for LDtk projects written in Golang. |
 | [eko/pihole-exporter](https://www.github.com/eko/pihole-exporter) | A Prometheus exporter for PI-Hole's Raspberry PI ad blocker |
 | [elazarl/goproxy](https://www.github.com/elazarl/goproxy) | An HTTP proxy library for Go |
+| [gophish/gophish](https://www.github.com/gophish/gophish) | Open-Source Phishing Toolkit |
 
 ## Actively Working On (publicly)
 | Repository | Description |
