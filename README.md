@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [elazarl/goproxy](https://www.github.com/elazarl/goproxy) | An HTTP proxy library for Go |
 | [gophish/gophish](https://www.github.com/gophish/gophish) | Open-Source Phishing Toolkit |
 | [home-assistant/core](https://www.github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. |
 | [jivoi/awesome-osint](https://www.github.com/jivoi/awesome-osint) | :scream: A curated list of amazingly awesome OSINT |
 | [terrastruct/d2](https://www.github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
+| [googleapis/release-please](https://www.github.com/googleapis/release-please) | generate release PRs based on the conventionalcommits.org spec |
 
 ## Actively Working On (publicly)
 | Repository | Description |
