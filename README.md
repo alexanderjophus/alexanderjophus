@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [jivoi/awesome-osint](https://www.github.com/jivoi/awesome-osint) | :scream: A curated list of amazingly awesome OSINT |
 | [terrastruct/d2](https://www.github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
 | [googleapis/release-please](https://www.github.com/googleapis/release-please) | generate release PRs based on the conventionalcommits.org spec |
 | [bevyengine/bevy](https://www.github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
 | [sethvargo/ratchet](https://www.github.com/sethvargo/ratchet) | A tool for securing CI/CD workflows with version pinning. |
+| [Trouv/bevy_ecs_ldtk](https://www.github.com/Trouv/bevy_ecs_ldtk) | ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap |
 
 ## Actively Working On (publicly)
 | Repository | Description |
