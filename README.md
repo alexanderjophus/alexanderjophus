@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [bevyengine/bevy](https://www.github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
 | [sethvargo/ratchet](https://www.github.com/sethvargo/ratchet) | A tool for securing CI/CD workflows with version pinning. |
 | [Trouv/bevy_ecs_ldtk](https://www.github.com/Trouv/bevy_ecs_ldtk) | ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap |
 | [sourcegraph/conc](https://www.github.com/sourcegraph/conc) | Better structured concurrency for go |
 | [AykutSarac/jsoncrack.com](https://www.github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [StarArawn/bevy_ecs_tilemap](https://www.github.com/StarArawn/bevy_ecs_tilemap) | A tilemap rendering crate for bevy which is more ECS friendly. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
