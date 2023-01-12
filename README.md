@@ -18,10 +18,10 @@ hobbies: ["Gaming", "Music"]
 ```
 
 <a href="https://github.com/alexanderjophus/alexanderjophus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjophus&hide=java,html,tex&langs_count=3&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alexanderjophus&hide=java,html,tex&langs_count=3&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/alexanderjophus/alexanderjophus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderjophus&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Alexanders GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexanderjophus&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Alexanders GitHub Stats" />
 </a>
 
 ## Recent Stars
