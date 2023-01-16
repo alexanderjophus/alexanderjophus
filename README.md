@@ -27,17 +27,17 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [sethvargo/ratchet](https://www.github.com/sethvargo/ratchet) | A tool for securing CI/CD workflows with version pinning. |
 | [Trouv/bevy_ecs_ldtk](https://www.github.com/Trouv/bevy_ecs_ldtk) | ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap |
 | [sourcegraph/conc](https://www.github.com/sourcegraph/conc) | Better structured concurrency for go |
 | [AykutSarac/jsoncrack.com](https://www.github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 | [StarArawn/bevy_ecs_tilemap](https://www.github.com/StarArawn/bevy_ecs_tilemap) | A tilemap rendering crate for bevy which is more ECS friendly. |
+| [guillaume-be/rust-bert](https://www.github.com/guillaume-be/rust-bert) | Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [pengo](https://www.github.com/alexanderjophus/pengo) | 🕵️‍♂️ |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [go-graph](https://www.github.com/alexanderjophus/go-graph) | A small graph library |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [go-broadcast](https://www.github.com/alexanderjophus/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go |
