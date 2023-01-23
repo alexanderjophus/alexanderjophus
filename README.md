@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [AykutSarac/jsoncrack.com](https://www.github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 | [StarArawn/bevy_ecs_tilemap](https://www.github.com/StarArawn/bevy_ecs_tilemap) | A tilemap rendering crate for bevy which is more ECS friendly. |
 | [guillaume-be/rust-bert](https://www.github.com/guillaume-be/rust-bert) | Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) |
 | [wagoodman/dive](https://www.github.com/wagoodman/dive) | A tool for exploring each layer in a docker image |
 | [goretk/redress](https://www.github.com/goretk/redress) | Redress - A tool for analyzing stripped Go binaries |
+| [shurcooL/githubv4](https://www.github.com/shurcooL/githubv4) | Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql). |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [go-graph](https://www.github.com/alexanderjophus/go-graph) | A small graph library |
 | [go-broadcast](https://www.github.com/alexanderjophus/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go and Rust |
-| [logfmt](https://www.github.com/alexanderjophus/logfmt) | Package logfmt marshals and unmarshals logfmt messages. |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [logfmt](https://www.github.com/alexanderjophus/logfmt) | Package logfmt marshals and unmarshals logfmt messages. |
