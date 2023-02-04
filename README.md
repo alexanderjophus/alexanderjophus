@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [go-graph](https://www.github.com/alexanderjophus/go-graph) | A small graph library |
 | [go-broadcast](https://www.github.com/alexanderjophus/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go and Rust |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
