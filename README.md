@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [Henauxg/bevy_quinnet](https://www.github.com/Henauxg/bevy_quinnet) | A Client/Server game networking plugin using QUIC, for the Bevy game engine. |
 | [mwbryant/bevy-tower-defense-tutorial](https://www.github.com/mwbryant/bevy-tower-defense-tutorial) | A tower defense game made with Bevy to accompany an intro series on Youtube |
 | [Leafwing-Studios/leafwing-input-manager](https://www.github.com/Leafwing-Studios/leafwing-input-manager) | A straightforward stateful input manager for the Bevy game engine. |
 | [arxanas/git-branchless](https://www.github.com/arxanas/git-branchless) | High-velocity, monorepo-scale workflow for Git |
 | [uutils/coreutils](https://www.github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
+| [stealthcopter/deepce](https://www.github.com/stealthcopter/deepce) | Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE) |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [go-broadcast](https://www.github.com/alexanderjophus/go-broadcast) | A trivial channel pubsub I use in lots of projects. |
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go and Rust |
 | [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [iris-classification](https://www.github.com/alexanderjophus/iris-classification) | A gRPC service to predict iris classification |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
