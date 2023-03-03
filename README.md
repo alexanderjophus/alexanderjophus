@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [mwbryant/bevy-tower-defense-tutorial](https://www.github.com/mwbryant/bevy-tower-defense-tutorial) | A tower defense game made with Bevy to accompany an intro series on Youtube |
 | [Leafwing-Studios/leafwing-input-manager](https://www.github.com/Leafwing-Studios/leafwing-input-manager) | A straightforward stateful input manager for the Bevy game engine. |
 | [arxanas/git-branchless](https://www.github.com/arxanas/git-branchless) | High-velocity, monorepo-scale workflow for Git |
 | [uutils/coreutils](https://www.github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
 | [stealthcopter/deepce](https://www.github.com/stealthcopter/deepce) | Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE) |
+| [hugo53/awesome-RemoteWork](https://www.github.com/hugo53/awesome-RemoteWork) | Resources for remote workers: approaches, hiring page, remote life and more. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
