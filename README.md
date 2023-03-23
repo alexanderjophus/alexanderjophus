@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [arxanas/git-branchless](https://www.github.com/arxanas/git-branchless) | High-velocity, monorepo-scale workflow for Git |
 | [uutils/coreutils](https://www.github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
 | [stealthcopter/deepce](https://www.github.com/stealthcopter/deepce) | Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE) |
 | [hugo53/awesome-RemoteWork](https://www.github.com/hugo53/awesome-RemoteWork) | Resources for remote workers: approaches, hiring page, remote life and more. |
 | [matteofigus/awesome-speaking](https://www.github.com/matteofigus/awesome-speaking) | Resources about public speaking |
+| [typst/typst](https://www.github.com/typst/typst) | A new markup-based typesetting system that is powerful and easy to learn. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
