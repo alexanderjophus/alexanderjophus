@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [stealthcopter/deepce](https://www.github.com/stealthcopter/deepce) | Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE) |
 | [hugo53/awesome-RemoteWork](https://www.github.com/hugo53/awesome-RemoteWork) | Resources for remote workers: approaches, hiring page, remote life and more. |
 | [matteofigus/awesome-speaking](https://www.github.com/matteofigus/awesome-speaking) | Resources about public speaking |
 | [typst/typst](https://www.github.com/typst/typst) | A new markup-based typesetting system that is powerful and easy to learn. |
 | [hankjordan/bevy_save](https://www.github.com/hankjordan/bevy_save) | A framework for saving and loading game state in Bevy. |
+| [Corrosive-Games/bevy-parallax](https://www.github.com/Corrosive-Games/bevy-parallax) | Parallax background plugin for Bevy |
 
 ## Actively Working On (publicly)
 | Repository | Description |
