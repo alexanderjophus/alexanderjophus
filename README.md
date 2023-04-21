@@ -29,7 +29,7 @@ hobbies: ["Gaming", "Music"]
 |---|---|
 | [hankjordan/bevy_save](https://www.github.com/hankjordan/bevy_save) | A framework for saving and loading game state in Bevy. |
 | [Corrosive-Games/bevy-parallax](https://www.github.com/Corrosive-Games/bevy-parallax) | Parallax background plugin for Bevy |
-| [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://www.github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) | This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science. |
+| [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://www.github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) | A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI |
 | [serenity-rs/serenity](https://www.github.com/serenity-rs/serenity) | A Rust library for the Discord API. |
 | [tauri-apps/tauri](https://www.github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
 
