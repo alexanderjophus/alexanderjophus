@@ -39,5 +39,5 @@ hobbies: ["Gaming", "Music"]
 | [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go and Rust |
 | [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
 | [iris-classification](https://www.github.com/alexanderjophus/iris-classification) | A gRPC service to predict iris classification |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [kie](https://www.github.com/alexanderjophus/kie) | https://alexanderjophus.github.io/kie/ |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
