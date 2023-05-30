@@ -36,8 +36,8 @@ hobbies: ["Gaming", "Music"]
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [streamingRPC](https://www.github.com/alexanderjophus/streamingRPC) | A project demonstrating how easy it is to use streaming RPCs in Go and Rust |
 | [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
 | [iris-classification](https://www.github.com/alexanderjophus/iris-classification) | A gRPC service to predict iris classification |
-| [kie](https://www.github.com/alexanderjophus/kie) | https://alexanderjophus.github.io/kie/ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [pachyderm-operator](https://www.github.com/alexanderjophus/pachyderm-operator) |  |
+| [kie](https://www.github.com/alexanderjophus/kie) | https://alexanderjophus.github.io/kie/ |
