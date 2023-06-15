@@ -31,7 +31,7 @@ hobbies: ["Gaming", "Music"]
 | [serenity-rs/serenity](https://www.github.com/serenity-rs/serenity) | A Rust library for the Discord API. |
 | [tauri-apps/tauri](https://www.github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
 | [adarga-ai/pachyderm-pipeline-controller](https://www.github.com/adarga-ai/pachyderm-pipeline-controller) | A Kubernetes Operator for controlling Pachyderm Pipeline objects. |
-| [inqueryio/inquery](https://www.github.com/inqueryio/inquery) | Superpowers for PostgreSQL |
+| [tableflowhq/inquery](https://www.github.com/tableflowhq/inquery) | Superpowers for PostgreSQL |
 
 ## Actively Working On (publicly)
 | Repository | Description |
