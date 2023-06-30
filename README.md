@@ -36,8 +36,8 @@ hobbies: ["Gaming", "Music"]
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
 | [iris-classification](https://www.github.com/alexanderjophus/iris-classification) | A gRPC service to predict iris classification |
 | [kie](https://www.github.com/alexanderjophus/kie) | https://alexanderjophus.github.io/kie/ |
 | [pachyderm-operator](https://www.github.com/alexanderjophus/pachyderm-operator) | A lightweight operator for pachyderm. |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
