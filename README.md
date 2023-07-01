@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Music"]
 | Repository | Description |
 |---|---|
 | [iris-classification](https://www.github.com/alexanderjophus/iris-classification) | A gRPC service to predict iris classification |
-| [kie](https://www.github.com/alexanderjophus/kie) | https://alexanderjophus.github.io/kie/ |
-| [pachyderm-operator](https://www.github.com/alexanderjophus/pachyderm-operator) | A lightweight operator for pachyderm. |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [kie](https://www.github.com/alexanderjophus/kie) | https://blog.alexanderjophus.dev/kie/ |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [pachyderm-operator](https://www.github.com/alexanderjophus/pachyderm-operator) | A lightweight operator for pachyderm. |
