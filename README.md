@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://www.github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) | A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI |
-| [serenity-rs/serenity](https://www.github.com/serenity-rs/serenity) | A Rust library for the Discord API. |
 | [tauri-apps/tauri](https://www.github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
 | [adarga-ai/pachyderm-pipeline-controller](https://www.github.com/adarga-ai/pachyderm-pipeline-controller) | A Kubernetes Operator for controlling Pachyderm Pipeline objects. |
 | [tableflowhq/tableflow](https://www.github.com/tableflowhq/tableflow) | The open source CSV importer |
+| [terhechte/bevy_quickmenu](https://www.github.com/terhechte/bevy_quickmenu) | A simple-to-use menu system for Bevy which supports gamepad, keyboard or mouse navigation |
+| [nicopap/ui-navigation](https://www.github.com/nicopap/ui-navigation) | A UI navigation algoritm implemented in rust currently targeting the bevy ui library |
 
 ## Actively Working On (publicly)
 | Repository | Description |
