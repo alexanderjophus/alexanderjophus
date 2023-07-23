@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [tauri-apps/tauri](https://www.github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
 | [adarga-ai/pachyderm-pipeline-controller](https://www.github.com/adarga-ai/pachyderm-pipeline-controller) | A Kubernetes Operator for controlling Pachyderm Pipeline objects. |
 | [tableflowhq/tableflow](https://www.github.com/tableflowhq/tableflow) | The open source CSV importer |
 | [terhechte/bevy_quickmenu](https://www.github.com/terhechte/bevy_quickmenu) | A simple-to-use menu system for Bevy which supports gamepad, keyboard or mouse navigation |
 | [nicopap/ui-navigation](https://www.github.com/nicopap/ui-navigation) | A UI navigation algoritm implemented in rust currently targeting the bevy ui library |
+| [modularml/mojo](https://www.github.com/modularml/mojo) | The Mojo Programming Language |
 
 ## Actively Working On (publicly)
 | Repository | Description |
