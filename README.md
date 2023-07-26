@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [adarga-ai/pachyderm-pipeline-controller](https://www.github.com/adarga-ai/pachyderm-pipeline-controller) | A Kubernetes Operator for controlling Pachyderm Pipeline objects. |
-| [tableflowhq/tableflow](https://www.github.com/tableflowhq/tableflow) | The open source CSV importer |
-| [terhechte/bevy_quickmenu](https://www.github.com/terhechte/bevy_quickmenu) | A simple-to-use menu system for Bevy which supports gamepad, keyboard or mouse navigation |
-| [nicopap/ui-navigation](https://www.github.com/nicopap/ui-navigation) | A UI navigation algoritm implemented in rust currently targeting the bevy ui library |
 | [modularml/mojo](https://www.github.com/modularml/mojo) | The Mojo Programming Language |
+| [zkat/big-brain](https://www.github.com/zkat/big-brain) | Utility AI library for the Bevy game engine |
+| [Zeenobit/moonshine_save](https://www.github.com/Zeenobit/moonshine_save) | A save/load framework for Bevy game engine. |
+| [idanarye/bevy-tnua](https://www.github.com/idanarye/bevy-tnua) | A floating character controller for bevy_rapier |
+| [PROMETHIA-27/bevy_mod_wanderlust](https://www.github.com/PROMETHIA-27/bevy_mod_wanderlust) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
