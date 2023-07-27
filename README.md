@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [modularml/mojo](https://www.github.com/modularml/mojo) | The Mojo Programming Language |
 | [zkat/big-brain](https://www.github.com/zkat/big-brain) | Utility AI library for the Bevy game engine |
 | [Zeenobit/moonshine_save](https://www.github.com/Zeenobit/moonshine_save) | A save/load framework for Bevy game engine. |
 | [idanarye/bevy-tnua](https://www.github.com/idanarye/bevy-tnua) | A floating character controller for bevy_rapier |
 | [PROMETHIA-27/bevy_mod_wanderlust](https://www.github.com/PROMETHIA-27/bevy_mod_wanderlust) |  |
+| [bevyengine/bevy_github_ci_template](https://www.github.com/bevyengine/bevy_github_ci_template) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
