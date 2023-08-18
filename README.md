@@ -12,7 +12,7 @@ located_in: Bristol, UK
 job: Senior Software Engineer (Go)
 
 fields_of_interests: ["Developer Experience", "DevOps", "Making Microservices Go Zoom"]
-familiarity: ["Go", "Python", "Kubernetes"]
+familiarity: ["Go", "Python", "Kubernetes", "Rust"]
 currently_learning: ["Game Design", "Elixir", "Rust/Bevy"]
 hobbies: ["Gaming", "Music"]
 ```
