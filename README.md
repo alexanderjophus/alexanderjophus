@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [idanarye/bevy-tnua](https://www.github.com/idanarye/bevy-tnua) | A floating character controller for bevy_rapier |
-| [PROMETHIA-27/bevy_mod_wanderlust](https://www.github.com/PROMETHIA-27/bevy_mod_wanderlust) |  |
 | [bevyengine/bevy_github_ci_template](https://www.github.com/bevyengine/bevy_github_ci_template) |  |
 | [MrGVSV/bevy_proto](https://www.github.com/MrGVSV/bevy_proto) | Create config files for entities in Bevy |
 | [pretzelhammer/rust-blog](https://www.github.com/pretzelhammer/rust-blog) | Educational blog posts for Rust beginners |
+| [spandanb/learndb-py](https://www.github.com/spandanb/learndb-py) | Learn database internals by implementing it from scratch. |
+| [cstack/db_tutorial](https://www.github.com/cstack/db_tutorial) | Writing a sqlite clone from scratch in C |
 
 ## Actively Working On (publicly)
 | Repository | Description |
