@@ -31,7 +31,7 @@ hobbies: ["Gaming", "Music"]
 | [pretzelhammer/rust-blog](https://www.github.com/pretzelhammer/rust-blog) | Educational blog posts for Rust beginners |
 | [spandanb/learndb-py](https://www.github.com/spandanb/learndb-py) | Learn database internals by implementing it from scratch. |
 | [cstack/db_tutorial](https://www.github.com/cstack/db_tutorial) | Writing a sqlite clone from scratch in C |
-| [srbhr/Resume-Matcher](https://www.github.com/srbhr/Resume-Matcher) | Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them. |
+| [srbhr/Resume-Matcher](https://www.github.com/srbhr/Resume-Matcher) | Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
