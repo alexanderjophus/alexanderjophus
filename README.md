@@ -27,17 +27,17 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [MrGVSV/bevy_proto](https://www.github.com/MrGVSV/bevy_proto) | Create config files for entities in Bevy |
 | [pretzelhammer/rust-blog](https://www.github.com/pretzelhammer/rust-blog) | Educational blog posts for Rust beginners |
 | [spandanb/learndb-py](https://www.github.com/spandanb/learndb-py) | Learn database internals by implementing it from scratch. |
 | [cstack/db_tutorial](https://www.github.com/cstack/db_tutorial) | Writing a sqlite clone from scratch in C |
 | [srbhr/Resume-Matcher](https://www.github.com/srbhr/Resume-Matcher) | Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  |
+| [DioxusLabs/dioxus](https://www.github.com/DioxusLabs/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [iris-classification](https://www.github.com/alexanderjophus/iris-classification) | A gRPC service to predict iris classification |
 | [kie](https://www.github.com/alexanderjophus/kie) | https://blog.alexanderjophus.dev/kie/ |
 | [pachyderm-operator](https://www.github.com/alexanderjophus/pachyderm-operator) | A lightweight operator for pachyderm. |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more) |
