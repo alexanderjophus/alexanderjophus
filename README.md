@@ -40,4 +40,4 @@ hobbies: ["Gaming", "Music"]
 | [pachyderm-operator](https://www.github.com/alexanderjophus/pachyderm-operator) | A lightweight operator for pachyderm. |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
-| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more) |
+| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
