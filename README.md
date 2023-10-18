@@ -27,11 +27,11 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [cstack/db_tutorial](https://www.github.com/cstack/db_tutorial) | Writing a sqlite clone from scratch in C |
 | [srbhr/Resume-Matcher](https://www.github.com/srbhr/Resume-Matcher) | Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  |
 | [DioxusLabs/dioxus](https://www.github.com/DioxusLabs/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [mainmatter/rust-telemetry-workshop](https://www.github.com/mainmatter/rust-telemetry-workshop) |  |
 | [Oyelowo/twust](https://www.github.com/Oyelowo/twust) | Catch Tailwindcss Errors  at Compile-Time Before They Catch You, without making any change to your code!  Supports overriding, extending, custom classes, custom modifiers, Plugins and many more 🚀🔥🦀 |
+| [bristolgolang/bristolgophers.dev](https://www.github.com/bristolgolang/bristolgophers.dev) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
