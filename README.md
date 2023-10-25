@@ -36,8 +36,8 @@ hobbies: ["Gaming", "Music"]
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [dioxus-storage](https://www.github.com/alexanderjophus/dioxus-storage) |  |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
+| [dioxus-docsite](https://www.github.com/alexanderjophus/dioxus-docsite) | Dioxuslabs.com documentation site |
