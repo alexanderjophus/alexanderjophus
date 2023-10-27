@@ -38,6 +38,6 @@ hobbies: ["Gaming", "Music"]
 |---|---|
 | [dioxus-storage](https://www.github.com/alexanderjophus/dioxus-storage) |  |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
-| [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [dioxus-docsite](https://www.github.com/alexanderjophus/dioxus-docsite) | Dioxuslabs.com documentation site |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
