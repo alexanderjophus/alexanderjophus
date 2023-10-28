@@ -27,17 +27,17 @@ hobbies: ["Gaming", "Music"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [DioxusLabs/dioxus](https://www.github.com/DioxusLabs/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [mainmatter/rust-telemetry-workshop](https://www.github.com/mainmatter/rust-telemetry-workshop) |  |
 | [Oyelowo/twust](https://www.github.com/Oyelowo/twust) | Catch Tailwindcss Errors  at Compile-Time Before They Catch You, without making any change to your code!  Supports overriding, extending, custom classes, custom modifiers, Plugins and many more 🚀🔥🦀 |
 | [bristolgolang/bristolgophers.dev](https://www.github.com/bristolgolang/bristolgophers.dev) |  |
 | [DogeDark/dioxus-logger](https://www.github.com/DogeDark/dioxus-logger) | A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile. |
+| [hiltonm/dioxus-charts](https://www.github.com/hiltonm/dioxus-charts) | A simple chart components library for Dioxus |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [dioxus-storage](https://www.github.com/alexanderjophus/dioxus-storage) |  |
-| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [dioxus-docsite](https://www.github.com/alexanderjophus/dioxus-docsite) | Dioxuslabs.com documentation site |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Okteto, Playwright, Go... All the good stuff |
+| [dioxus-charts](https://www.github.com/alexanderjophus/dioxus-charts) | A simple chart components library for Dioxus |
