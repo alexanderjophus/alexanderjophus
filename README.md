@@ -38,6 +38,6 @@ hobbies: ["Gaming", "Music"]
 |---|---|
 | [dioxus-docsite](https://www.github.com/alexanderjophus/dioxus-docsite) | Dioxuslabs.com documentation site |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [dioxus-charts](https://www.github.com/alexanderjophus/dioxus-charts) | A simple chart components library for Dioxus |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Go, Rust... All the good stuff |
