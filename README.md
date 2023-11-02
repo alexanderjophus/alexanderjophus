@@ -24,6 +24,8 @@ hobbies: ["Gaming", "Music"]
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexanderjophus&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Alexanders GitHub Stats" />
 </a>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderjophus&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ## Recent Stars
 | Repository | Description |
 |---|---|
