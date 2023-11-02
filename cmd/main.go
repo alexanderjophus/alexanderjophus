@@ -34,12 +34,12 @@ var readme = strings.ReplaceAll(`### Hi there 👋
 §§§yaml
 name: Alexander Jophus
 located_in: Bristol, UK
-job: Senior Software Engineer (Go)
+job: Senior Software Engineer
 
-fields_of_interests: ["Developer Experience", "DevOps", "Making Microservices Go Zoom"]
-familiarity: ["Go", "Python", "Kubernetes", "Rust"]
+fields_of_interests: ["Developer Experience", "DevOps", "User Experience"]
+familiarity: ["Go", "Rust", "Python", "Kubernetes"]
 currently_learning: ["Game Design", "Elixir", "Rust/Bevy"]
-hobbies: ["Gaming", "Music"]
+hobbies: ["Gaming", "Music", "Bouldering"]
 §§§
 
 <a href="https://github.com/alexanderjophus/alexanderjophus">
@@ -48,6 +48,8 @@ hobbies: ["Gaming", "Music"]
 <a href="https://github.com/alexanderjophus/alexanderjophus">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexanderjophus&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Alexanders GitHub Stats" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderjophus&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Recent Stars
 | Repository | Description |
