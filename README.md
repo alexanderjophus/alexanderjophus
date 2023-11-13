@@ -46,17 +46,17 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [mainmatter/rust-telemetry-workshop](https://www.github.com/mainmatter/rust-telemetry-workshop) | A workshop that introduces participants to a comprehensive toolkit to detect, troubleshoot and resolve issues with Rust applications. |
 | [Oyelowo/twust](https://www.github.com/Oyelowo/twust) | Catch Tailwindcss Errors  at Compile-Time Before They Catch You, without making any change to your code!  Supports overriding, extending, custom classes, custom modifiers, Plugins and many more 🚀🔥🦀 |
 | [bristolgolang/bristolgophers.dev](https://www.github.com/bristolgolang/bristolgophers.dev) |  |
 | [DogeDark/dioxus-logger](https://www.github.com/DogeDark/dioxus-logger) | A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile. |
 | [hiltonm/dioxus-charts](https://www.github.com/hiltonm/dioxus-charts) | A simple chart components library for Dioxus |
+| [marc2332/freya](https://www.github.com/marc2332/freya) | Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [dioxus-charts](https://www.github.com/alexanderjophus/dioxus-charts) | A simple chart components library for Dioxus |
 | [formula1](https://www.github.com/alexanderjophus/formula1) | GraphQL, Go, Rust... All the good stuff |
 | [dioxus-docsite](https://www.github.com/alexanderjophus/dioxus-docsite) | Dioxuslabs.com documentation site |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [dioxus-slides](https://www.github.com/alexanderjophus/dioxus-slides) | A slides component library for creating slideshows in dioxus |
