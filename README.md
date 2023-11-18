@@ -49,7 +49,7 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 | [Oyelowo/twust](https://www.github.com/Oyelowo/twust) | Catch Tailwindcss Errors  at Compile-Time Before They Catch You, without making any change to your code!  Supports overriding, extending, custom classes, custom modifiers, Plugins and many more 🚀🔥🦀 |
 | [bristolgolang/bristolgophers.dev](https://www.github.com/bristolgolang/bristolgophers.dev) |  |
 | [DogeDark/dioxus-logger](https://www.github.com/DogeDark/dioxus-logger) | A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile. |
-| [hiltonm/dioxus-charts](https://www.github.com/hiltonm/dioxus-charts) | A simple chart components library for Dioxus |
+| [dioxus-community/dioxus-charts](https://www.github.com/dioxus-community/dioxus-charts) | A simple chart components library for Dioxus |
 | [marc2332/freya](https://www.github.com/marc2332/freya) | Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia. |
 
 ## Actively Working On (publicly)
