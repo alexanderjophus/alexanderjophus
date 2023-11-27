@@ -46,17 +46,17 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [bristolgolang/bristolgophers.dev](https://www.github.com/bristolgolang/bristolgophers.dev) |  |
 | [DogeDark/dioxus-logger](https://www.github.com/DogeDark/dioxus-logger) | A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile. |
 | [dioxus-community/dioxus-charts](https://www.github.com/dioxus-community/dioxus-charts) | A simple chart components library for Dioxus |
 | [marc2332/freya](https://www.github.com/marc2332/freya) | Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia. |
 | [Leafwing-Studios/leafwing_abilities](https://www.github.com/Leafwing-Studios/leafwing_abilities) | An ability management suite for Bevy. |
+| [awtterpip/bevy_oxr](https://www.github.com/awtterpip/bevy_oxr) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [dioxus-slides](https://www.github.com/alexanderjophus/dioxus-slides) | A slides component library for creating slideshows in dioxus |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [tailcallhq.github.io](https://www.github.com/alexanderjophus/tailcallhq.github.io) | Website for Tailcall |
 | [tailcall](https://www.github.com/alexanderjophus/tailcall) | A high-performance no-code GraphQL backend |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
