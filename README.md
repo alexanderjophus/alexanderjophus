@@ -46,11 +46,11 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [DogeDark/dioxus-logger](https://www.github.com/DogeDark/dioxus-logger) | A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile. |
 | [dioxus-community/dioxus-charts](https://www.github.com/dioxus-community/dioxus-charts) | A simple chart components library for Dioxus |
 | [marc2332/freya](https://www.github.com/marc2332/freya) | Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia. |
 | [Leafwing-Studios/leafwing_abilities](https://www.github.com/Leafwing-Studios/leafwing_abilities) | An ability management suite for Bevy. |
 | [awtterpip/bevy_oxr](https://www.github.com/awtterpip/bevy_oxr) |  |
+| [alphastrata/shadplay](https://www.github.com/alphastrata/shadplay) | Real-time wgsl visualisation tooling for educating oneself in the art of shader programming |
 
 ## Actively Working On (publicly)
 | Repository | Description |
