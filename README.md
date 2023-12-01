@@ -46,11 +46,11 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [Leafwing-Studios/leafwing_abilities](https://www.github.com/Leafwing-Studios/leafwing_abilities) | An ability management suite for Bevy. |
 | [awtterpip/bevy_oxr](https://www.github.com/awtterpip/bevy_oxr) |  |
 | [alphastrata/shadplay](https://www.github.com/alphastrata/shadplay) | Real-time wgsl visualisation tooling for educating oneself in the art of shader programming |
 | [DaveParr/starpilot](https://www.github.com/DaveParr/starpilot) | Use your GitHub stars for great good! |
 | [tailcallhq/tailcall](https://www.github.com/tailcallhq/tailcall) | A high-performance no-code GraphQL backend |
+| [lettier/3d-game-shaders-for-beginners](https://www.github.com/lettier/3d-game-shaders-for-beginners) | 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [dioxus-slides](https://www.github.com/alexanderjophus/dioxus-slides) | A slides component library for creating slideshows in dioxus |
 | [tailcallhq.github.io](https://www.github.com/alexanderjophus/tailcallhq.github.io) | Website for Tailcall |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [tailcall](https://www.github.com/alexanderjophus/tailcall) | A high-performance no-code GraphQL backend |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
