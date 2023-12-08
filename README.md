@@ -46,11 +46,11 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [awtterpip/bevy_oxr](https://www.github.com/awtterpip/bevy_oxr) |  |
-| [alphastrata/shadplay](https://www.github.com/alphastrata/shadplay) | Real-time wgsl visualisation tooling for educating oneself in the art of shader programming |
-| [DaveParr/starpilot](https://www.github.com/DaveParr/starpilot) | Use your GitHub stars for great good! |
 | [tailcallhq/tailcall](https://www.github.com/tailcallhq/tailcall) | A high-performance no-code GraphQL backend |
 | [lettier/3d-game-shaders-for-beginners](https://www.github.com/lettier/3d-game-shaders-for-beginners) | 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. |
+| [giusdp/bevy_talks](https://www.github.com/giusdp/bevy_talks) | A Bevy plugin to write dialogues for your characters, together with player choices. |
+| [yarn-slinger/yarn-slinger](https://www.github.com/yarn-slinger/yarn-slinger) | The friendly tool for writing game dialogue in Rust |
+| [spacedriveapp/spacedrive](https://www.github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
