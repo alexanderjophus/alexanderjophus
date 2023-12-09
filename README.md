@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 | [dioxus-slides](https://www.github.com/alexanderjophus/dioxus-slides) | A slides component library for creating slideshows in dioxus |
 | [tailcallhq.github.io](https://www.github.com/alexanderjophus/tailcallhq.github.io) | Website for Tailcall |
 | [tailcall](https://www.github.com/alexanderjophus/tailcall) | A high-performance no-code GraphQL backend |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
