@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 | [tailcallhq.github.io](https://www.github.com/alexanderjophus/tailcallhq.github.io) | Website for Tailcall |
 | [tailcall](https://www.github.com/alexanderjophus/tailcall) | A high-performance no-code GraphQL backend |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [nhs_number](https://www.github.com/alexanderjophus/nhs_number) |  |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
