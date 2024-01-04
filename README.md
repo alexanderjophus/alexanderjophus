@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 | [tailcall](https://www.github.com/alexanderjophus/tailcall) | A high-performance no-code GraphQL backend |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [nhs_number](https://www.github.com/alexanderjophus/nhs_number) |  |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
