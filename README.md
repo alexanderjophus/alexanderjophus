@@ -46,11 +46,11 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [spacedriveapp/spacedrive](https://www.github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
 | [typst/typst](https://www.github.com/typst/typst) | A new markup-based typesetting system that is powerful and easy to learn. |
 | [TabbyML/tabby](https://www.github.com/TabbyML/tabby) | Self-hosted AI coding assistant |
 | [JMS55/bevy_dioxus](https://www.github.com/JMS55/bevy_dioxus) |  |
 | [bensadeh/tailspin](https://www.github.com/bensadeh/tailspin) | 🌀 A log file highlighter |
+| [PokeAPI/pokeapi](https://www.github.com/PokeAPI/pokeapi) | The Pokémon API |
 
 ## Actively Working On (publicly)
 | Repository | Description |
