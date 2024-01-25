@@ -46,11 +46,11 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [TabbyML/tabby](https://www.github.com/TabbyML/tabby) | Self-hosted AI coding assistant |
 | [JMS55/bevy_dioxus](https://www.github.com/JMS55/bevy_dioxus) |  |
 | [bensadeh/tailspin](https://www.github.com/bensadeh/tailspin) | 🌀 A log file highlighter |
 | [PokeAPI/pokeapi](https://www.github.com/PokeAPI/pokeapi) | The Pokémon API |
 | [cecilbowen/pokemon-sandwich-simulator](https://www.github.com/cecilbowen/pokemon-sandwich-simulator) | Simulate making sandwiches for Pokemon Scarlet and Violet. |
+| [zed-industries/zed](https://www.github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -58,5 +58,5 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 | [nhs_number](https://www.github.com/alexanderjophus/nhs_number) |  |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [talks](https://www.github.com/alexanderjophus/talks) | A repo to hold all my talks |
-| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
