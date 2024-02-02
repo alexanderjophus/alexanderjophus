@@ -57,6 +57,6 @@ hobbies: ["Gaming", "Music", "Bouldering"]
 |---|---|
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [talks](https://www.github.com/alexanderjophus/talks) | A repo to hold all my talks |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [dioxus-charts](https://www.github.com/alexanderjophus/dioxus-charts) | A simple chart components library for Dioxus |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
