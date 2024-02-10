@@ -1,4 +1,4 @@
-module github.com/trelore/trelore
+module github.com/alexanderjophus/alexanderjophus
 
 go 1.21
 
