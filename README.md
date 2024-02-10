@@ -8,13 +8,24 @@
 
 ```yaml
 name: Alexander Jophus
-located_in: Bristol, UK
-job: Senior Software Engineer
+location: Bristol, UK
+job: Senior Software Engineer (Go)
+fieldsOfInterest:
+  - Developer Experience
+  - DevOps
+  - Making Microservices Go Zoom
+hobbies:
+  - Gaming
+  - Cooking
+  - Music
+familiarities:
+  - Go
+  - Python
+  - Kubernetes
+currentlyLearning:
+  - Rust/Bevy
+  - Game Design
 
-fields_of_interests: ["Developer Experience", "DevOps", "User Experience"]
-familiarity: ["Go", "Rust", "Python", "Kubernetes"]
-currently_learning: ["Game Design", "Elixir", "Rust/Bevy"]
-hobbies: ["Gaming", "Music", "Bouldering"]
 ```
 
 <a href="https://github.com/alexanderjophus/alexanderjophus">
