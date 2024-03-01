@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [bensadeh/tailspin](https://www.github.com/bensadeh/tailspin) | 🌀 A log file highlighter |
 | [PokeAPI/pokeapi](https://www.github.com/PokeAPI/pokeapi) | The Pokémon API |
 | [cecilbowen/pokemon-sandwich-simulator](https://www.github.com/cecilbowen/pokemon-sandwich-simulator) | Simulate making sandwiches for Pokemon Scarlet and Violet. |
 | [zed-industries/zed](https://www.github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [quarylabs/quary](https://www.github.com/quarylabs/quary) | Transform data together. Model, test and deploy as a team. |
+| [petgraph/petgraph](https://www.github.com/petgraph/petgraph) | Graph data structure library for Rust. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
