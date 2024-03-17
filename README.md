@@ -66,8 +66,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
-| [dioxus-charts](https://www.github.com/alexanderjophus/dioxus-charts) | A simple chart components library for Dioxus |
 | [typstcv](https://www.github.com/alexanderjophus/typstcv) |  |
 | [fyp](https://www.github.com/alexanderjophus/fyp) |  |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
