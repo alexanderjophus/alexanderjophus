@@ -68,6 +68,6 @@ currentlyLearning:
 |---|---|
 | [typstcv](https://www.github.com/alexanderjophus/typstcv) |  |
 | [fyp](https://www.github.com/alexanderjophus/fyp) |  |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
