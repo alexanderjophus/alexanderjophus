@@ -66,8 +66,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [typstcv](https://www.github.com/alexanderjophus/typstcv) |  |
 | [fyp](https://www.github.com/alexanderjophus/fyp) |  |
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [cyber-sleuth](https://www.github.com/alexanderjophus/cyber-sleuth) | A small API to serve digimon data for the game Cyber Sleuth |
