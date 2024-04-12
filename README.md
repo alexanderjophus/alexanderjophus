@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [quarylabs/quary](https://www.github.com/quarylabs/quary) | Transform data together. Model, test and deploy as a team. |
 | [petgraph/petgraph](https://www.github.com/petgraph/petgraph) | Graph data structure library for Rust. |
 | [nektos/act](https://www.github.com/nektos/act) | Run your GitHub Actions locally 🚀 |
 | [ynqa/jnv](https://www.github.com/ynqa/jnv) | interactive JSON filter using jq |
 | [diesel-rs/diesel](https://www.github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust |
+| [jamessizeland/bevy-arcade-exploration](https://www.github.com/jamessizeland/bevy-arcade-exploration) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
