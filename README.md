@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [nektos/act](https://www.github.com/nektos/act) | Run your GitHub Actions locally 🚀 |
 | [ynqa/jnv](https://www.github.com/ynqa/jnv) | interactive JSON filter using jq |
 | [diesel-rs/diesel](https://www.github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust |
 | [jamessizeland/bevy-arcade-exploration](https://www.github.com/jamessizeland/bevy-arcade-exploration) |  |
 | [bevzzz/nb](https://www.github.com/bevzzz/nb) | Render Jupyter Notebooks in pure Go 📔 |
+| [boyter/scc](https://www.github.com/boyter/scc) | Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -69,5 +69,5 @@ currentlyLearning:
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [cyber-sleuth](https://www.github.com/alexanderjophus/cyber-sleuth) | A small API to serve digimon data for the game Cyber Sleuth |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
