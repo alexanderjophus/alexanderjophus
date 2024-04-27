@@ -67,7 +67,7 @@ currentlyLearning:
 | Repository | Description |
 |---|---|
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
-| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [cyber-sleuth](https://www.github.com/alexanderjophus/cyber-sleuth) | A small API to serve digimon data for the game Cyber Sleuth |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
