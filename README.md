@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [ynqa/jnv](https://www.github.com/ynqa/jnv) | interactive JSON filter using jq |
 | [diesel-rs/diesel](https://www.github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust |
 | [jamessizeland/bevy-arcade-exploration](https://www.github.com/jamessizeland/bevy-arcade-exploration) |  |
 | [bevzzz/nb](https://www.github.com/bevzzz/nb) | Render Jupyter Notebooks in pure Go 📔 |
 | [boyter/scc](https://www.github.com/boyter/scc) | Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go |
+| [pagefaultgames/pokerogue](https://www.github.com/pagefaultgames/pokerogue) |  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
