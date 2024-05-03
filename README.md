@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [diesel-rs/diesel](https://www.github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust |
 | [jamessizeland/bevy-arcade-exploration](https://www.github.com/jamessizeland/bevy-arcade-exploration) |  |
 | [bevzzz/nb](https://www.github.com/bevzzz/nb) | Render Jupyter Notebooks in pure Go 📔 |
 | [boyter/scc](https://www.github.com/boyter/scc) | Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go |
 | [pagefaultgames/pokerogue](https://www.github.com/pagefaultgames/pokerogue) |  |
+| [DioxusLabs/components](https://www.github.com/DioxusLabs/components) | Components made for Dioxus. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
