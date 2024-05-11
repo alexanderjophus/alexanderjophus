@@ -59,7 +59,7 @@ currentlyLearning:
 |---|---|
 | [bevzzz/nb](https://www.github.com/bevzzz/nb) | Render Jupyter Notebooks in pure Go 📔 |
 | [boyter/scc](https://www.github.com/boyter/scc) | Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go |
-| [pagefaultgames/pokerogue](https://www.github.com/pagefaultgames/pokerogue) |  |
+| [pagefaultgames/pokerogue](https://www.github.com/pagefaultgames/pokerogue) | A browser based Pokémon fangame heavily inspired by the roguelite genre. |
 | [DioxusLabs/components](https://www.github.com/DioxusLabs/components) | Components made for Dioxus. |
 | [codebar/planner](https://www.github.com/codebar/planner) | 🗓 the main codebar site |
 
@@ -69,5 +69,5 @@ currentlyLearning:
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [dioxus](https://www.github.com/alexanderjophus/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [cyber-sleuth](https://www.github.com/alexanderjophus/cyber-sleuth) | A small API to serve digimon data for the game Cyber Sleuth |
-| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
