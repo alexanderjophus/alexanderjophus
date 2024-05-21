@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [boyter/scc](https://www.github.com/boyter/scc) | Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go |
-| [pagefaultgames/pokerogue](https://www.github.com/pagefaultgames/pokerogue) | A browser based Pokémon fangame heavily inspired by the roguelite genre. |
 | [DioxusLabs/components](https://www.github.com/DioxusLabs/components) | Components made for Dioxus. |
 | [codebar/planner](https://www.github.com/codebar/planner) | 🗓 the main codebar site |
 | [HouraiTeahouse/bevy_steamworks](https://www.github.com/HouraiTeahouse/bevy_steamworks) | A Bevy plugin for integrating with the Steamworks SDK  |
+| [huggingface/candle](https://www.github.com/huggingface/candle) | Minimalist ML framework for Rust |
+| [ToluClassics/candle-tutorial](https://www.github.com/ToluClassics/candle-tutorial) | Tutorial for Porting PyTorch Transformer Models to Candle (Rust) |
 
 ## Actively Working On (publicly)
 | Repository | Description |
