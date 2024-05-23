@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [DioxusLabs/components](https://www.github.com/DioxusLabs/components) | Components made for Dioxus. |
-| [codebar/planner](https://www.github.com/codebar/planner) | 🗓 the main codebar site |
-| [HouraiTeahouse/bevy_steamworks](https://www.github.com/HouraiTeahouse/bevy_steamworks) | A Bevy plugin for integrating with the Steamworks SDK  |
 | [huggingface/candle](https://www.github.com/huggingface/candle) | Minimalist ML framework for Rust |
 | [ToluClassics/candle-tutorial](https://www.github.com/ToluClassics/candle-tutorial) | Tutorial for Porting PyTorch Transformer Models to Candle (Rust) |
+| [Ph0enixKM/Amber](https://www.github.com/Ph0enixKM/Amber) | 💎 Amber the programming language compiled to bash |
+| [patriciogonzalezvivo/PixelSpiritDeck](https://www.github.com/patriciogonzalezvivo/PixelSpiritDeck) |  |
+| [patriciogonzalezvivo/lygia](https://www.github.com/patriciogonzalezvivo/lygia) | LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility |
 
 ## Actively Working On (publicly)
 | Repository | Description |
