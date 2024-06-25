@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [dair-ai/Prompt-Engineering-Guide](https://www.github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
 | [princeton-vl/infinigen](https://www.github.com/princeton-vl/infinigen) | Infinite Photorealistic Worlds using Procedural Generation |
 | [tcgoetz/GarminDB](https://www.github.com/tcgoetz/GarminDB) | Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks. |
 | [casey/just](https://www.github.com/casey/just) | 🤖 Just a command runner |
 | [chainer/chainer](https://www.github.com/chainer/chainer) | A flexible framework of neural networks for deep learning |
+| [Qovery/Replibyte](https://www.github.com/Qovery/Replibyte) | Seed your development database with real data ⚡️ |
 
 ## Actively Working On (publicly)
 | Repository | Description |
