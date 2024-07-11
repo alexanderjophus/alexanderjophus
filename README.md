@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [princeton-vl/infinigen](https://www.github.com/princeton-vl/infinigen) | Infinite Photorealistic Worlds using Procedural Generation |
-| [tcgoetz/GarminDB](https://www.github.com/tcgoetz/GarminDB) | Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks. |
 | [casey/just](https://www.github.com/casey/just) | 🤖 Just a command runner |
 | [chainer/chainer](https://www.github.com/chainer/chainer) | A flexible framework of neural networks for deep learning |
 | [Qovery/Replibyte](https://www.github.com/Qovery/Replibyte) | Seed your development database with real data ⚡️ |
+| [dwhitena/go-genai-workshop-build](https://www.github.com/dwhitena/go-genai-workshop-build) | Follow on application build for Go GenAI workshops |
+| [dwhitena/go-genai-workshop](https://www.github.com/dwhitena/go-genai-workshop) | Materials for Go GenAI webinars |
 
 ## Actively Working On (publicly)
 | Repository | Description |
