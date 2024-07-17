@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [casey/just](https://www.github.com/casey/just) | 🤖 Just a command runner |
 | [chainer/chainer](https://www.github.com/chainer/chainer) | A flexible framework of neural networks for deep learning |
 | [Qovery/Replibyte](https://www.github.com/Qovery/Replibyte) | Seed your development database with real data ⚡️ |
 | [dwhitena/go-genai-workshop-build](https://www.github.com/dwhitena/go-genai-workshop-build) | Follow on application build for Go GenAI workshops |
 | [dwhitena/go-genai-workshop](https://www.github.com/dwhitena/go-genai-workshop) | Materials for Go GenAI webinars |
+| [jesseduffield/OK](https://www.github.com/jesseduffield/OK) | Welcome to the future of programming languages: OK? |
 
 ## Actively Working On (publicly)
 | Repository | Description |
