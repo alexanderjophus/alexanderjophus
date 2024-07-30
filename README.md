@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [Qovery/Replibyte](https://www.github.com/Qovery/Replibyte) | Seed your development database with real data ⚡️ |
 | [dwhitena/go-genai-workshop-build](https://www.github.com/dwhitena/go-genai-workshop-build) | Follow on application build for Go GenAI workshops |
 | [dwhitena/go-genai-workshop](https://www.github.com/dwhitena/go-genai-workshop) | Materials for Go GenAI webinars |
 | [jesseduffield/OK](https://www.github.com/jesseduffield/OK) | Welcome to the future of programming languages: OK? |
 | [magwo/elevatorsaga](https://www.github.com/magwo/elevatorsaga) | The elevator programming game! |
+| [chiphuyen/dmls-book](https://www.github.com/chiphuyen/dmls-book) | Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022) |
 
 ## Actively Working On (publicly)
 | Repository | Description |
