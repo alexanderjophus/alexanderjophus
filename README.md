@@ -69,5 +69,5 @@ currentlyLearning:
 | [cyber-sleuth](https://www.github.com/alexanderjophus/cyber-sleuth) | A small API to serve digimon data for the game Cyber Sleuth |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
-| [sl](https://www.github.com/alexanderjophus/sl) | A re-imagining of sl, in rust |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [sl](https://www.github.com/alexanderjophus/sl) | A re-imagining of sl, in rust |
