@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [magwo/elevatorsaga](https://www.github.com/magwo/elevatorsaga) | The elevator programming game! |
-| [chiphuyen/dmls-book](https://www.github.com/chiphuyen/dmls-book) | Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022) |
 | [dorny/paths-filter](https://www.github.com/dorny/paths-filter) | Conditionally run actions based on files modified by PR, feature branch or pushed commits |
 | [axodotdev/cargo-dist](https://www.github.com/axodotdev/cargo-dist) | 📦 shippable application packaging |
 | [mikaelmello/inquire](https://www.github.com/mikaelmello/inquire) | A Rust library for building interactive prompts |
+| [BloopAI/bloop](https://www.github.com/BloopAI/bloop) | bloop is a fast code search engine written in Rust. |
+| [64bit/async-openai](https://www.github.com/64bit/async-openai) | Rust library for OpenAI  |
 
 ## Actively Working On (publicly)
 | Repository | Description |
