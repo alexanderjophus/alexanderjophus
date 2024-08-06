@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [dorny/paths-filter](https://www.github.com/dorny/paths-filter) | Conditionally run actions based on files modified by PR, feature branch or pushed commits |
-| [axodotdev/cargo-dist](https://www.github.com/axodotdev/cargo-dist) | 📦 shippable application packaging |
-| [mikaelmello/inquire](https://www.github.com/mikaelmello/inquire) | A Rust library for building interactive prompts |
-| [BloopAI/bloop](https://www.github.com/BloopAI/bloop) | bloop is a fast code search engine written in Rust. |
-| [64bit/async-openai](https://www.github.com/64bit/async-openai) | Rust library for OpenAI  |
+| [pepperoni21/ollama-rs](https://www.github.com/pepperoni21/ollama-rs) | A Rust library allowing to interact with the Ollama API. |
+| [open-webui/open-webui](https://www.github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |
+| [XAMPPRocky/octocrab](https://www.github.com/XAMPPRocky/octocrab) | A modern, extensible GitHub API Client for Rust. |
+| [langchain-ai/langchain](https://www.github.com/langchain-ai/langchain) | 🦜🔗 Build context-aware reasoning applications |
+| [keyvank/femtoGPT](https://www.github.com/keyvank/femtoGPT) | Pure Rust implementation of a minimal Generative Pretrained Transformer |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -69,5 +69,5 @@ currentlyLearning:
 | [cyber-sleuth](https://www.github.com/alexanderjophus/cyber-sleuth) | A small API to serve digimon data for the game Cyber Sleuth |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [sl](https://www.github.com/alexanderjophus/sl) | A re-imagining of sl, in rust |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
