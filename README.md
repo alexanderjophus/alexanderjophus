@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [pepperoni21/ollama-rs](https://www.github.com/pepperoni21/ollama-rs) | A Rust library allowing to interact with the Ollama API. |
-| [open-webui/open-webui](https://www.github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |
 | [XAMPPRocky/octocrab](https://www.github.com/XAMPPRocky/octocrab) | A modern, extensible GitHub API Client for Rust. |
 | [langchain-ai/langchain](https://www.github.com/langchain-ai/langchain) | 🦜🔗 Build context-aware reasoning applications |
 | [keyvank/femtoGPT](https://www.github.com/keyvank/femtoGPT) | Pure Rust implementation of a minimal Generative Pretrained Transformer |
+| [bigcode-project/starcoder](https://www.github.com/bigcode-project/starcoder) | Home of StarCoder: fine-tuning & inference! |
+| [Abraxas-365/langchain-rust](https://www.github.com/Abraxas-365/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
 
 ## Actively Working On (publicly)
 | Repository | Description |
