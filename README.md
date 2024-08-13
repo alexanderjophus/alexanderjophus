@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [langchain-ai/langchain](https://www.github.com/langchain-ai/langchain) | 🦜🔗 Build context-aware reasoning applications |
 | [keyvank/femtoGPT](https://www.github.com/keyvank/femtoGPT) | Pure Rust implementation of a minimal Generative Pretrained Transformer |
 | [bigcode-project/starcoder](https://www.github.com/bigcode-project/starcoder) | Home of StarCoder: fine-tuning & inference! |
 | [Abraxas-365/langchain-rust](https://www.github.com/Abraxas-365/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
 | [pgvector/pgvector](https://www.github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres |
+| [DigitalExtinction/Game](https://www.github.com/DigitalExtinction/Game) | A 3D RTS game implemented in Rust. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
