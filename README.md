@@ -57,17 +57,17 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [Abraxas-365/langchain-rust](https://www.github.com/Abraxas-365/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
 | [pgvector/pgvector](https://www.github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres |
 | [DigitalExtinction/Game](https://www.github.com/DigitalExtinction/Game) | A 3D RTS game implemented in Rust. |
 | [askmeegs/papermusic](https://www.github.com/askmeegs/papermusic) | draw an instrument, then play the notes 🗒️  💛 🎵 |
 | [toeverything/AFFiNE](https://www.github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  |
+| [rust-adventure/bevy-kenney-assets](https://www.github.com/rust-adventure/bevy-kenney-assets) | Load Kenney Assets into Bevy Apps |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
-| [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [sl](https://www.github.com/alexanderjophus/sl) | A re-imagining of sl, in rust |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [langchain-rust](https://www.github.com/alexanderjophus/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
+| [cargo-dist](https://www.github.com/alexanderjophus/cargo-dist) | 📦 shippable application packaging |
+| [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
