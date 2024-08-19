@@ -69,5 +69,5 @@ currentlyLearning:
 | [sl](https://www.github.com/alexanderjophus/sl) | A re-imagining of sl, in rust |
 | [langchain-rust](https://www.github.com/alexanderjophus/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
 | [cargo-dist](https://www.github.com/alexanderjophus/cargo-dist) | 📦 shippable application packaging |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
