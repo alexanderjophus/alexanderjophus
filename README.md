@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [pgvector/pgvector](https://www.github.com/pgvector/pgvector) | Open-source vector similarity search for Postgres |
 | [DigitalExtinction/Game](https://www.github.com/DigitalExtinction/Game) | A 3D RTS game implemented in Rust. |
 | [askmeegs/papermusic](https://www.github.com/askmeegs/papermusic) | draw an instrument, then play the notes 🗒️  💛 🎵 |
 | [toeverything/AFFiNE](https://www.github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  |
 | [rust-adventure/bevy-kenney-assets](https://www.github.com/rust-adventure/bevy-kenney-assets) | Load Kenney Assets into Bevy Apps |
+| [ruma/ruma](https://www.github.com/ruma/ruma) | A set of Rust crates for interacting with the Matrix chat network. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
