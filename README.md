@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [askmeegs/papermusic](https://www.github.com/askmeegs/papermusic) | draw an instrument, then play the notes 🗒️  💛 🎵 |
 | [toeverything/AFFiNE](https://www.github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  |
 | [rust-adventure/bevy-kenney-assets](https://www.github.com/rust-adventure/bevy-kenney-assets) | Load Kenney Assets into Bevy Apps |
 | [ruma/ruma](https://www.github.com/ruma/ruma) | A set of Rust crates for interacting with the Matrix chat network. |
 | [Rust-GPU/rust-gpu](https://www.github.com/Rust-GPU/rust-gpu) | 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 |
+| [Razaekel/noise-rs](https://www.github.com/Razaekel/noise-rs) | Procedural noise generation library for Rust. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -69,5 +69,5 @@ currentlyLearning:
 | [langchain-rust](https://www.github.com/alexanderjophus/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
 | [cargo-dist](https://www.github.com/alexanderjophus/cargo-dist) | 📦 shippable application packaging |
 | [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [slowutils](https://www.github.com/alexanderjophus/slowutils) |  |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
