@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [ruma/ruma](https://www.github.com/ruma/ruma) | A set of Rust crates for interacting with the Matrix chat network. |
-| [Rust-GPU/rust-gpu](https://www.github.com/Rust-GPU/rust-gpu) | 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 |
-| [Razaekel/noise-rs](https://www.github.com/Razaekel/noise-rs) | Procedural noise generation library for Rust. |
 | [dbrgn/tealdeer](https://www.github.com/dbrgn/tealdeer) | A very fast implementation of tldr in Rust. |
 | [tldr-pages/tldr](https://www.github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands |
+| [tbillington/bevy_best_practices](https://www.github.com/tbillington/bevy_best_practices) | An opionated set of Best Practices for the Bevy game engine |
+| [DioxusLabs/taffy](https://www.github.com/DioxusLabs/taffy) | A high performance rust-powered UI layout library |
+| [TheBevyFlock/bevy_quickstart](https://www.github.com/TheBevyFlock/bevy_quickstart) | This template is a great way to get started on a new Bevy game—especially for a game jam! |
 
 ## Actively Working On (publicly)
 | Repository | Description |
