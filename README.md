@@ -66,8 +66,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [langchain-rust](https://www.github.com/alexanderjophus/langchain-rust) | 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust |
 | [cargo-dist](https://www.github.com/alexanderjophus/cargo-dist) | 📦 shippable application packaging |
 | [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
 | [slowutils](https://www.github.com/alexanderjophus/slowutils) |  |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [bevy_wgsl_playground](https://www.github.com/alexanderjophus/bevy_wgsl_playground) |  |
