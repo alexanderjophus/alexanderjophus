@@ -69,5 +69,5 @@ currentlyLearning:
 | [cargo-dist](https://www.github.com/alexanderjophus/cargo-dist) | 📦 shippable application packaging |
 | [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
 | [slowutils](https://www.github.com/alexanderjophus/slowutils) |  |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [bevy_wgsl_playground](https://www.github.com/alexanderjophus/bevy_wgsl_playground) |  |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
