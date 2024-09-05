@@ -57,17 +57,17 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [tldr-pages/tldr](https://www.github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands |
 | [tbillington/bevy_best_practices](https://www.github.com/tbillington/bevy_best_practices) | An opionated set of Best Practices for the Bevy game engine |
 | [DioxusLabs/taffy](https://www.github.com/DioxusLabs/taffy) | A high performance rust-powered UI layout library |
 | [TheBevyFlock/bevy_quickstart](https://www.github.com/TheBevyFlock/bevy_quickstart) | This template is a great way to get started on a new Bevy game—especially for a game jam! |
 | [testcontainers/testcontainers-go](https://www.github.com/testcontainers/testcontainers-go) | Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
+| [conradludgate/tokio-supervisor](https://www.github.com/conradludgate/tokio-supervisor) | Reports when tokio runtime threads are blocking |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [cargo-dist](https://www.github.com/alexanderjophus/cargo-dist) | 📦 shippable application packaging |
 | [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
 | [slowutils](https://www.github.com/alexanderjophus/slowutils) |  |
 | [bevy_wgsl_playground](https://www.github.com/alexanderjophus/bevy_wgsl_playground) |  |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
