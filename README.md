@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [DioxusLabs/taffy](https://www.github.com/DioxusLabs/taffy) | A high performance rust-powered UI layout library |
 | [TheBevyFlock/bevy_new_2d](https://www.github.com/TheBevyFlock/bevy_new_2d) | This template is a great way to get started on a new 2D Bevy game! |
 | [testcontainers/testcontainers-go](https://www.github.com/testcontainers/testcontainers-go) | Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
 | [conradludgate/tokio-supervisor](https://www.github.com/conradludgate/tokio-supervisor) | Reports when tokio runtime threads are blocking |
 | [06wj/pokemon](https://www.github.com/06wj/pokemon) | Online 3D Pokémon Viewer |
+| [vleue/vleue_navigator](https://www.github.com/vleue/vleue_navigator) | Pathfinding on NavMeshes for Bevy |
 
 ## Actively Working On (publicly)
 | Repository | Description |
