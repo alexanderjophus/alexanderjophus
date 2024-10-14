@@ -66,8 +66,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [hello-world-go](https://www.github.com/alexanderjophus/hello-world-go) |  |
 | [slowutils](https://www.github.com/alexanderjophus/slowutils) |  |
 | [bevy_wgsl_playground](https://www.github.com/alexanderjophus/bevy_wgsl_playground) |  |
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [ptd](https://www.github.com/alexanderjophus/ptd) | Tower Defence game |
