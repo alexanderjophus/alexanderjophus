@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [testcontainers/testcontainers-go](https://www.github.com/testcontainers/testcontainers-go) | Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
 | [conradludgate/tokio-supervisor](https://www.github.com/conradludgate/tokio-supervisor) | Reports when tokio runtime threads are blocking |
 | [06wj/pokemon](https://www.github.com/06wj/pokemon) | Online 3D Pokémon Viewer |
 | [vleue/vleue_navigator](https://www.github.com/vleue/vleue_navigator) | Pathfinding on NavMeshes for Bevy |
 | [openai/swarm](https://www.github.com/openai/swarm) | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. |
+| [alexanderjophus/ptd](https://www.github.com/alexanderjophus/ptd) | Tower Defence game |
 
 ## Actively Working On (publicly)
 | Repository | Description |
