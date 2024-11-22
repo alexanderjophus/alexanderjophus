@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [conradludgate/tokio-supervisor](https://www.github.com/conradludgate/tokio-supervisor) | Reports when tokio runtime threads are blocking |
 | [06wj/pokemon](https://www.github.com/06wj/pokemon) | Online 3D Pokémon Viewer |
 | [vleue/vleue_navigator](https://www.github.com/vleue/vleue_navigator) | Pathfinding on NavMeshes for Bevy |
 | [openai/swarm](https://www.github.com/openai/swarm) | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. |
 | [alexanderjophus/ptd](https://www.github.com/alexanderjophus/ptd) | Tower Defence game |
+| [gomlx/gomlx](https://www.github.com/gomlx/gomlx) | GoMLX: An Accelerated Machine Learning Framework For Go |
 
 ## Actively Working On (publicly)
 | Repository | Description |
