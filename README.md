@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [openai/swarm](https://www.github.com/openai/swarm) | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. |
 | [alexanderjophus/ptd](https://www.github.com/alexanderjophus/ptd) | Tower Defence game |
 | [gomlx/gomlx](https://www.github.com/gomlx/gomlx) | GoMLX: An Accelerated Machine Learning Framework For Go |
 | [rust-ml/linfa](https://www.github.com/rust-ml/linfa) | A Rust machine learning framework. |
 | [smartcorelib/smartcore](https://www.github.com/smartcorelib/smartcore) | A comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning. |
+| [protectai/llm-guard](https://www.github.com/protectai/llm-guard) | The Security Toolkit for LLM Interactions |
 
 ## Actively Working On (publicly)
 | Repository | Description |
