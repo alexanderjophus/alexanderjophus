@@ -69,5 +69,5 @@ currentlyLearning:
 | [slowutils](https://www.github.com/alexanderjophus/slowutils) |  |
 | [bevy_wgsl_playground](https://www.github.com/alexanderjophus/bevy_wgsl_playground) |  |
 | [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [td](https://www.github.com/alexanderjophus/td) | Tower Defence game |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
