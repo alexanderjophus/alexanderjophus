@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [gomlx/gomlx](https://www.github.com/gomlx/gomlx) | GoMLX: An Accelerated Machine Learning Framework For Go |
-| [rust-ml/linfa](https://www.github.com/rust-ml/linfa) | A Rust machine learning framework. |
 | [smartcorelib/smartcore](https://www.github.com/smartcorelib/smartcore) | A comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning. |
 | [protectai/llm-guard](https://www.github.com/protectai/llm-guard) | The Security Toolkit for LLM Interactions |
 | [substratusai/kubeai](https://www.github.com/substratusai/kubeai) | AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. |
+| [yuankunzhang/charming](https://www.github.com/yuankunzhang/charming) | A visualization library for Rust |
+| [zellij-org/zellij](https://www.github.com/zellij-org/zellij) | A terminal workspace with batteries included |
 
 ## Actively Working On (publicly)
 | Repository | Description |
