@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [protectai/llm-guard](https://www.github.com/protectai/llm-guard) | The Security Toolkit for LLM Interactions |
 | [substratusai/kubeai](https://www.github.com/substratusai/kubeai) | AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. |
 | [yuankunzhang/charming](https://www.github.com/yuankunzhang/charming) | A visualization library for Rust |
 | [zellij-org/zellij](https://www.github.com/zellij-org/zellij) | A terminal workspace with batteries included |
 | [TheBevyFlock/bevy_cli](https://www.github.com/TheBevyFlock/bevy_cli) | A Bevy CLI tool and linter. |
+| [presubmit/ai-reviewer](https://www.github.com/presubmit/ai-reviewer) | Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more |
 
 ## Actively Working On (publicly)
 | Repository | Description |
