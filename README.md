@@ -57,17 +57,17 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [substratusai/kubeai](https://www.github.com/substratusai/kubeai) | AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. |
-| [yuankunzhang/charming](https://www.github.com/yuankunzhang/charming) | A visualization library for Rust |
 | [zellij-org/zellij](https://www.github.com/zellij-org/zellij) | A terminal workspace with batteries included |
 | [TheBevyFlock/bevy_cli](https://www.github.com/TheBevyFlock/bevy_cli) | A Bevy CLI tool and linter. |
 | [presubmit/ai-reviewer](https://www.github.com/presubmit/ai-reviewer) | Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more |
+| [anowell/are-we-learning-yet](https://www.github.com/anowell/are-we-learning-yet) | How ready is Rust for Machine Learning? |
+| [rustwasm/wasm-bindgen](https://www.github.com/rustwasm/wasm-bindgen) | Facilitating high-level interactions between Wasm modules and JavaScript |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [bevy_wgsl_playground](https://www.github.com/alexanderjophus/bevy_wgsl_playground) |  |
-| [horror](https://www.github.com/alexanderjophus/horror) | A simple horror game written in Rust/Bevy |
 | [td](https://www.github.com/alexanderjophus/td) | Tower Defence game |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
+| [charming](https://www.github.com/alexanderjophus/charming) | A visualization library for Rust |
