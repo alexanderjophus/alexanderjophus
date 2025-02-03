@@ -66,8 +66,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [td](https://www.github.com/alexanderjophus/td) | Tower Defence game |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
-| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [charming](https://www.github.com/alexanderjophus/charming) | A visualization library for Rust |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
+| [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
