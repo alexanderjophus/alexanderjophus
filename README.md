@@ -57,17 +57,17 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [zellij-org/zellij](https://www.github.com/zellij-org/zellij) | A terminal workspace with batteries included |
 | [TheBevyFlock/bevy_cli](https://www.github.com/TheBevyFlock/bevy_cli) | A Bevy CLI tool and linter. |
 | [presubmit/ai-reviewer](https://www.github.com/presubmit/ai-reviewer) | Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more |
 | [anowell/are-we-learning-yet](https://www.github.com/anowell/are-we-learning-yet) | How ready is Rust for Machine Learning? |
 | [rustwasm/wasm-bindgen](https://www.github.com/rustwasm/wasm-bindgen) | Facilitating high-level interactions between Wasm modules and JavaScript |
+| [shurcooL/goexec](https://www.github.com/shurcooL/goexec) | A command line tool to execute Go functions. |
 
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [charming](https://www.github.com/alexanderjophus/charming) | A visualization library for Rust |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
+| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
