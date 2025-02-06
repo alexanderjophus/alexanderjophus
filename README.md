@@ -66,8 +66,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [charming](https://www.github.com/alexanderjophus/charming) | A visualization library for Rust |
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
