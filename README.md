@@ -57,11 +57,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [TheBevyFlock/bevy_cli](https://www.github.com/TheBevyFlock/bevy_cli) | A Bevy CLI tool and linter. |
-| [presubmit/ai-reviewer](https://www.github.com/presubmit/ai-reviewer) | Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more |
-| [anowell/are-we-learning-yet](https://www.github.com/anowell/are-we-learning-yet) | How ready is Rust for Machine Learning? |
 | [rustwasm/wasm-bindgen](https://www.github.com/rustwasm/wasm-bindgen) | Facilitating high-level interactions between Wasm modules and JavaScript |
 | [shurcooL/goexec](https://www.github.com/shurcooL/goexec) | A command line tool to execute Go functions. |
+| [xiph/rav1e](https://www.github.com/xiph/rav1e) | The fastest and safest AV1 encoder. |
+| [Praqma/git-merge-driver](https://www.github.com/Praqma/git-merge-driver) | Example of how to configure a custom git merge driver |
+| [jelmer/awesome-merge-drivers](https://www.github.com/jelmer/awesome-merge-drivers) | List of great merge drivers for git and other version control tools |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -69,5 +69,5 @@ currentlyLearning:
 | [pokesandwich](https://www.github.com/alexanderjophus/pokesandwich) | A pokedex searchable by region and type (and maybe more |
 | [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
