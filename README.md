@@ -3,8 +3,6 @@
 ---
 
 <a href="https://github.com/alexanderjophus"><img src="https://img.shields.io/github/followers/alexanderjophus.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://twitter.com/AlexanderJophus"><img src="https://img.shields.io/twitter/follow/AlexanderJophus?label=Twitter&style=social" alt="Twitter"></a>
-<a href="https://twitch.tv/dejophus"><img src="https://img.shields.io/twitch/status/dejophus?style=social" alt="Twitch"></a>
 
 ```yaml
 name: Alexander Jophus
@@ -69,5 +67,5 @@ currentlyLearning:
 | [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
 | [wasme](https://www.github.com/alexanderjophus/wasme) |  |
+| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
