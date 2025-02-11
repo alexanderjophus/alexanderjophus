@@ -67,5 +67,5 @@ currentlyLearning:
 | [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
-| [wasme](https://www.github.com/alexanderjophus/wasme) |  |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [wasme](https://www.github.com/alexanderjophus/wasme) |  |
