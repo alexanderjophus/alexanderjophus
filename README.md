@@ -64,8 +64,8 @@ currentlyLearning:
 ## Actively Working On (publicly)
 | Repository | Description |
 |---|---|
-| [wasm-game-of-life](https://www.github.com/alexanderjophus/wasm-game-of-life) |  |
 | [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) | https://alexanderjophus.github.io/ |
 | [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
+| [planner](https://www.github.com/alexanderjophus/planner) | 🗓 the main codebar site |
 | [wasme](https://www.github.com/alexanderjophus/wasme) |  |
