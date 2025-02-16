@@ -55,11 +55,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [rustwasm/wasm-bindgen](https://www.github.com/rustwasm/wasm-bindgen) | Facilitating high-level interactions between Wasm modules and JavaScript |
 | [shurcooL/goexec](https://www.github.com/shurcooL/goexec) | A command line tool to execute Go functions. |
 | [xiph/rav1e](https://www.github.com/xiph/rav1e) | The fastest and safest AV1 encoder. |
 | [Praqma/git-merge-driver](https://www.github.com/Praqma/git-merge-driver) | Example of how to configure a custom git merge driver |
 | [jelmer/awesome-merge-drivers](https://www.github.com/jelmer/awesome-merge-drivers) | List of great merge drivers for git and other version control tools |
+| [jdx/mise](https://www.github.com/jdx/mise) | dev tools, env vars, task runner |
 
 ## Actively Working On (publicly)
 | Repository | Description |
