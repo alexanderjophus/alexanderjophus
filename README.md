@@ -55,11 +55,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [xiph/rav1e](https://www.github.com/xiph/rav1e) | The fastest and safest AV1 encoder. |
-| [Praqma/git-merge-driver](https://www.github.com/Praqma/git-merge-driver) | Example of how to configure a custom git merge driver |
-| [jelmer/awesome-merge-drivers](https://www.github.com/jelmer/awesome-merge-drivers) | List of great merge drivers for git and other version control tools |
-| [jdx/mise](https://www.github.com/jdx/mise) | dev tools, env vars, task runner |
 | [paskhaver/learn-to-code-with-rust](https://www.github.com/paskhaver/learn-to-code-with-rust) | Course materials for the Learn to Code with Rust video course |
+| [okieraised/rs-face-detection-tflite](https://www.github.com/okieraised/rs-face-detection-tflite) | Face Detection with Tensorflow in Rust |
+| [patlevin/face-detection-tflite](https://www.github.com/patlevin/face-detection-tflite) | Face and iris detection for Python based on MediaPipe  |
+| [atomashpolskiy/rustface](https://www.github.com/atomashpolskiy/rustface) | Face detection library for the Rust programming language |
+| [deepinsight/insightface](https://www.github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project |
 
 ## Actively Working On (publicly)
 | Repository | Description |
