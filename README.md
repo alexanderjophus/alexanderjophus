@@ -55,11 +55,11 @@ currentlyLearning:
 ## Recent Stars
 | Repository | Description |
 |---|---|
-| [paskhaver/learn-to-code-with-rust](https://www.github.com/paskhaver/learn-to-code-with-rust) | Course materials for the Learn to Code with Rust video course |
 | [okieraised/rs-face-detection-tflite](https://www.github.com/okieraised/rs-face-detection-tflite) | Face Detection with Tensorflow in Rust |
 | [patlevin/face-detection-tflite](https://www.github.com/patlevin/face-detection-tflite) | Face and iris detection for Python based on MediaPipe  |
 | [atomashpolskiy/rustface](https://www.github.com/atomashpolskiy/rustface) | Face detection library for the Rust programming language |
 | [deepinsight/insightface](https://www.github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project |
+| [alexanderjophus/wasme](https://www.github.com/alexanderjophus/wasme) | Apply filters to video feed |
 
 ## Actively Working On (publicly)
 | Repository | Description |
@@ -68,4 +68,4 @@ currentlyLearning:
 | [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
 | [planner](https://www.github.com/alexanderjophus/planner) | 🗓 the main codebar site |
 | [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
-| [wasme](https://www.github.com/alexanderjophus/wasme) |  |
+| [wasme](https://www.github.com/alexanderjophus/wasme) | Apply filters to video feed |
