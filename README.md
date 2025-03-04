@@ -2,28 +2,29 @@
 
 ---
 
-<a href="https://github.com/alexanderjophus"><img src="https://img.shields.io/github/followers/alexanderjophus.svg?label=GitHub&style=social" alt="GitHub"></a>
-
 ```yaml
 name: Alexander Jophus
 location: Bristol, UK
-job: Senior Software Engineer (Go)
-fieldsOfInterest:
-  - Developer Experience
-  - DevOps
-  - Making Microservices Go Zoom
+job: Senior Software Engineer (Go/Rust)
 hobbies:
   - Gaming
   - Cooking
   - Music
 familiarities:
   - Go
-  - Python
+  - Rust
   - Kubernetes
 currentlyLearning:
-  - Rust/Bevy
-  - Game Design
-
+  - WASM
+  - Bevy / Game Design
+values:
+  - Short feedback cycles
+  - LGBTQ+ rights
+  - Mental Health Awareness
+workingWithMe:
+  - You can expect quick iterations, provided the right tooling and feedback is in place
+  - I love getting to know the people behind the computer screen
+  - You will hear about Brutus (my dog) and Rami (my partners cat)
 ```
 
 <a href="https://github.com/alexanderjophus/alexanderjophus">
@@ -34,38 +35,3 @@ currentlyLearning:
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderjophus&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## Familiarity
-<div class="row">
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-</div>
-
-## Recent Stars
-| Repository | Description |
-|---|---|
-| [patlevin/face-detection-tflite](https://www.github.com/patlevin/face-detection-tflite) | Face and iris detection for Python based on MediaPipe  |
-| [atomashpolskiy/rustface](https://www.github.com/atomashpolskiy/rustface) | Face detection library for the Rust programming language |
-| [deepinsight/insightface](https://www.github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project |
-| [alexanderjophus/wasme](https://www.github.com/alexanderjophus/wasme) | Apply filters to video feed |
-| [shuttle-hq/shuttle](https://www.github.com/shuttle-hq/shuttle) | Build & ship backends without writing any infrastructure files. |
-
-## Actively Working On (publicly)
-| Repository | Description |
-|---|---|
-| [go1-24](https://www.github.com/alexanderjophus/go1-24) | Repo for my talk on go 1.24's new features |
-| [planner](https://www.github.com/alexanderjophus/planner) | 🗓 the main codebar site |
-| [wasme](https://www.github.com/alexanderjophus/wasme) | Apply filters to video feed |
-| [alexanderjophus](https://www.github.com/alexanderjophus/alexanderjophus) | The special repo |
-| [alexanderjophus.github.io](https://www.github.com/alexanderjophus/alexanderjophus.github.io) |  |
